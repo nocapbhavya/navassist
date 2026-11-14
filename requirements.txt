@@ -1,0 +1,8 @@
+# Works with Python 3.10, 3.11, 3.12 and 3.13 (64-bit)
+onnxruntime>=1.17
+opencv-python>=4.8
+numpy>=1.26
+pyttsx3>=2.90      # offline text-to-speech
+pandas>=2.1        # results analysis
+matplotlib>=3.8    # charts
+pytest>=8.0        # unit tests

@@ -1,0 +1,214 @@
+image,usable,skip_reason,blur_score,brightness,n_obstacles,n_text,top_object,top_zone,top_band,level,message,t_preprocess_ms,t_detection_ms,t_depth_ms,t_ocr_ms,t_reasoning_ms,t_total_ms
+VizWiz_test_00000000.jpg,True,,168.8,44.1,1,1,cat,centre,near,HIGH,Stop. Cat ahead. Path blocked.,2.6,102.1,107.7,533.8,0.8,746.9
+VizWiz_test_00000001.jpg,False,blurred,2.3,94.6,0,0,,,,SKIPPED,,4.4,,,,,
+VizWiz_test_00000002.jpg,True,,90.1,88.7,0,1,,,,CLEAR,Sign reads :05 h.,16.4,123.9,133.5,350.8,0.3,625.0
+VizWiz_test_00000003.jpg,True,,100.4,77.9,1,0,tv,centre,far,CLEAR,,17.1,87.4,88.6,346.4,0.9,540.4
+VizWiz_test_00000004.jpg,True,,55.0,108.7,4,5,dining table,left,mid,CLEAR,Sign reads HALF&HALF.,2.8,88.2,89.4,504.5,0.9,685.8
+VizWiz_test_00000005.jpg,False,blurred,22.2,108.3,0,0,,,,SKIPPED,,23.4,,,,,
+VizWiz_test_00000006.jpg,True,,163.9,131.5,1,1,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,24.2,121.7,120.4,396.0,0.9,663.1
+VizWiz_test_00000007.jpg,False,blurred,14.7,78.0,0,0,,,,SKIPPED,,14.8,,,,,
+VizWiz_test_00000008.jpg,True,,108.6,79.5,1,0,dog,centre,far,CLEAR,,17.0,88.6,90.8,437.8,0.8,635.1
+VizWiz_test_00000009.jpg,True,,58.6,115.7,1,0,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,26.1,101.0,109.6,299.7,1.3,537.7
+VizWiz_test_00000010.jpg,False,blurred,19.5,109.8,0,0,,,,SKIPPED,,18.7,,,,,
+VizWiz_test_00000011.jpg,True,,173.1,98.4,1,0,oven,centre,near,HIGH,Stop. Oven ahead. Path blocked.,17.5,98.6,94.4,344.0,1.2,555.8
+VizWiz_test_00000012.jpg,True,,316.2,77.0,0,2,,,,CLEAR,Sign reads COMPUTER.,14.4,89.1,98.1,429.2,0.4,631.2
+VizWiz_train_00000000.jpg,True,,92.6,105.2,0,3,,,,CLEAR,Sign reads NETWT 0.62OZ（17g).,17.8,90.8,115.6,430.6,0.4,655.2
+VizWiz_train_00000001.jpg,True,,96.7,138.4,0,0,,,,CLEAR,,12.9,85.4,119.3,357.1,0.3,575.0
+VizWiz_train_00000002.jpg,True,,276.9,140.4,0,5,,,,CLEAR,Sign reads lomatoes.,18.2,106.4,100.4,594.1,0.4,819.5
+VizWiz_train_00000003.jpg,True,,3853.9,202.3,0,14,,,,CLEAR,Sign reads Please enter the above code and hit submit..,1.0,89.4,79.7,1120.7,0.1,1291.0
+VizWiz_train_00000004.jpg,True,,464.4,74.3,0,13,,,,CLEAR,Sign reads OLARGARDENLIGHT.,16.9,84.0,84.7,1179.3,0.6,1365.4
+VizWiz_train_00000005.jpg,False,blurred,15.1,97.2,0,0,,,,SKIPPED,,18.0,,,,,
+VizWiz_train_00000006.jpg,True,,195.0,124.7,0,19,,,,CLEAR,Sign reads Advanced.,27.2,90.8,88.6,1293.3,0.5,1500.4
+VizWiz_train_00000007.jpg,True,,55.3,69.0,1,3,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,18.3,138.5,131.7,479.9,1.6,769.9
+VizWiz_train_00000008.jpg,True,,85.1,104.5,0,3,,,,CLEAR,Sign reads Farley's.,26.5,139.7,136.3,495.3,0.5,798.3
+VizWiz_train_00000009.jpg,True,,149.1,140.4,0,0,,,,CLEAR,,2.6,137.4,129.9,405.3,0.3,675.5
+VizWiz_train_00000010.jpg,True,,185.1,152.5,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,27.7,134.7,135.2,457.6,1.0,756.3
+VizWiz_train_00000011.jpg,True,,99.2,94.0,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,27.1,136.9,136.3,402.4,1.8,704.6
+VizWiz_train_00000012.jpg,True,,101.9,112.4,4,6,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,22.2,134.9,134.7,720.6,2.1,1014.5
+VizWiz_train_00000013.jpg,True,,165.7,136.1,1,1,bed,centre,near,HIGH,Stop. Bed ahead. Path blocked.,22.3,134.8,135.0,419.8,1.2,713.1
+VizWiz_train_00000014.jpg,True,,47.2,94.2,1,1,refrigerator,centre,near,HIGH,Stop. Refrigerator ahead. Path blocked.,47.3,103.0,115.6,476.2,1.1,743.3
+VizWiz_train_00000015.jpg,True,,125.9,127.9,0,0,,,,CLEAR,,24.4,86.2,88.1,314.9,0.6,514.3
+VizWiz_train_00000016.jpg,True,,423.8,130.0,1,0,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,1.9,136.2,108.3,477.1,0.7,724.3
+VizWiz_train_00000017.jpg,True,,303.4,122.2,1,0,chair,right,far,CLEAR,,1.5,137.2,81.9,308.6,0.2,529.4
+VizWiz_train_00000018.jpg,True,,153.0,154.6,3,0,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,13.4,103.8,102.7,418.3,1.0,639.2
+VizWiz_train_00000019.jpg,True,,217.3,101.1,0,0,,,,CLEAR,,18.4,106.9,96.5,320.9,0.5,543.3
+VizWiz_train_00000020.jpg,True,,84.9,169.0,1,3,person,centre,far,CLEAR,Sign reads cecty.,22.7,113.8,112.4,455.2,0.5,704.6
+VizWiz_train_00000021.jpg,False,blurred,12.5,146.9,0,0,,,,SKIPPED,,18.7,,,,,
+VizWiz_train_00000022.jpg,True,,51.9,95.0,0,4,,,,CLEAR,Sign reads Great.,13.7,89.9,88.1,488.0,0.4,680.0
+VizWiz_train_00000023.jpg,True,,109.5,116.3,5,2,person,centre,near,HIGH,Stop. Person ahead. Move left.,12.6,89.3,92.6,531.0,1.0,726.4
+VizWiz_train_00000024.jpg,True,,75.2,85.9,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,1.1,87.7,79.5,329.2,0.6,498.1
+VizWiz_train_00000025.jpg,True,,48.7,89.1,0,0,,,,CLEAR,,20.9,118.4,107.5,341.7,0.6,589.1
+VizWiz_train_00000026.jpg,False,blurred,12.9,66.5,0,0,,,,SKIPPED,,19.4,,,,,
+VizWiz_train_00000027.jpg,False,blurred,4.3,1.8,0,0,,,,SKIPPED,,13.6,,,,,
+VizWiz_train_00000028.jpg,True,,54.1,112.1,0,0,,,,CLEAR,,17.3,101.0,123.4,431.8,0.6,674.2
+VizWiz_train_00000029.jpg,False,blurred,28.7,117.4,0,0,,,,SKIPPED,,18.2,,,,,
+VizWiz_train_00000030.jpg,False,blurred,6.4,205.7,0,0,,,,SKIPPED,,28.0,,,,,
+VizWiz_train_00000031.jpg,False,blurred,13.2,157.2,0,0,,,,SKIPPED,,31.0,,,,,
+VizWiz_train_00000032.jpg,True,,200.6,89.1,0,0,,,,CLEAR,,27.7,165.2,96.2,317.6,0.4,607.1
+VizWiz_train_00000033.jpg,False,blurred,10.4,129.2,0,0,,,,SKIPPED,,20.5,,,,,
+VizWiz_train_00000034.jpg,True,,46.9,87.2,0,2,,,,CLEAR,Sign reads VALUE TNROUGHBET.,25.3,90.6,87.6,413.0,0.3,616.7
+VizWiz_train_00000035.jpg,False,blurred,16.0,53.1,0,0,,,,SKIPPED,,15.3,,,,,
+VizWiz_train_00000036.jpg,False,blurred,4.1,173.5,0,0,,,,SKIPPED,,16.6,,,,,
+VizWiz_train_00000037.jpg,False,blurred,27.7,117.3,0,0,,,,SKIPPED,,19.7,,,,,
+VizWiz_train_00000038.jpg,True,,56.9,105.5,0,0,,,,CLEAR,,18.5,97.1,107.4,334.2,0.4,557.6
+VizWiz_train_00000039.jpg,True,,251.1,106.2,0,7,,,,CLEAR,Sign reads FARMHOUSE.,17.8,98.5,111.0,555.9,0.5,783.8
+VizWiz_train_00000040.jpg,True,,73.3,141.2,0,2,,,,CLEAR,Sign reads ForwarderAir Bill.,20.8,119.2,116.6,443.3,0.8,700.8
+VizWiz_train_00000041.jpg,False,blurred,8.5,69.9,0,0,,,,SKIPPED,,2.5,,,,,
+VizWiz_train_00000042.jpg,True,,54.2,186.5,0,0,,,,CLEAR,,27.3,96.3,89.1,278.3,0.4,491.4
+VizWiz_train_00000043.jpg,True,,97.7,131.5,0,6,,,,CLEAR,Sign reads NATURAL SPICES.,18.5,89.0,88.8,584.5,0.4,781.1
+VizWiz_train_00000044.jpg,True,,233.8,130.2,1,7,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,13.6,97.6,97.9,643.3,1.2,853.8
+VizWiz_train_00000045.jpg,False,blurred,22.8,130.8,0,0,,,,SKIPPED,,13.0,,,,,
+VizWiz_train_00000046.jpg,True,,122.2,103.5,1,3,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,16.5,84.9,85.4,429.9,1.1,617.9
+VizWiz_train_00000047.jpg,True,,860.2,91.4,0,4,,,,CLEAR,"Sign reads ""An exhilarating gift.""”.",13.6,87.8,85.2,624.3,0.3,811.2
+VizWiz_train_00000048.jpg,True,,132.6,103.7,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,16.3,124.1,104.4,399.3,0.8,645.0
+VizWiz_train_00000049.jpg,False,blurred,24.0,152.8,0,0,,,,SKIPPED,,19.3,,,,,
+VizWiz_train_00000050.jpg,True,,118.2,99.8,1,3,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,16.1,95.2,109.1,486.5,0.8,707.7
+VizWiz_train_00000051.jpg,True,,47.6,152.4,0,0,,,,CLEAR,,20.0,91.4,91.6,362.9,0.5,566.5
+VizWiz_train_00000052.jpg,True,,73.2,132.9,0,7,,,,CLEAR,Sign reads USDA CHOICE BEE.,17.1,91.1,94.0,811.9,0.6,1014.6
+VizWiz_train_00000053.jpg,True,,218.5,157.2,1,1,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,20.2,123.2,110.2,394.3,2.0,649.9
+VizWiz_train_00000055.jpg,True,,56.6,46.3,1,0,toilet,centre,near,HIGH,Stop. Toilet ahead. Move right.,4.1,93.5,132.8,392.4,0.8,623.7
+VizWiz_train_00000056.jpg,True,,75.3,80.0,0,0,,,,CLEAR,,13.4,98.1,93.6,316.5,0.5,522.1
+VizWiz_train_00000057.jpg,True,,705.2,84.9,0,0,,,,CLEAR,,24.0,94.6,85.5,314.4,0.4,518.9
+VizWiz_train_00000058.jpg,True,,167.6,122.7,0,15,,,,CLEAR,Sign reads Calories/Calories 120.,22.7,93.1,93.0,1112.7,0.5,1321.9
+VizWiz_train_00000059.jpg,True,,70.0,107.5,0,0,,,,CLEAR,,22.4,137.5,131.6,422.0,0.6,714.1
+VizWiz_train_00000060.jpg,True,,214.6,113.8,0,0,,,,CLEAR,,26.4,134.3,131.6,413.4,0.5,706.2
+VizWiz_train_00000061.jpg,True,,412.1,128.2,0,7,,,,CLEAR,Sign reads BLUE.,1.2,137.0,112.9,661.4,0.2,912.7
+VizWiz_train_00000062.jpg,True,,930.3,82.3,0,0,,,,CLEAR,,0.4,124.1,114.0,363.5,0.1,602.1
+VizWiz_train_00000063.jpg,True,,55.4,100.1,0,0,,,,CLEAR,,10.9,84.4,86.1,302.6,0.3,484.3
+VizWiz_train_00000064.jpg,False,blurred,26.7,129.0,0,0,,,,SKIPPED,,15.7,,,,,
+VizWiz_train_00000065.jpg,True,,136.0,137.9,1,0,person,right,near,MEDIUM,Person on your right.,13.3,98.6,94.8,849.4,0.7,1057.0
+VizWiz_train_00000066.jpg,True,,157.6,161.6,0,7,,,,CLEAR,Sign reads THELOTCOOE (NOTTHEUPCBARCONE.,30.7,116.4,107.9,913.0,0.4,1168.4
+VizWiz_train_00000067.jpg,True,,530.0,150.2,0,0,,,,CLEAR,,13.0,95.1,99.7,320.1,0.4,528.3
+VizWiz_train_00000068.jpg,False,too dark,64.9,32.7,0,0,,,,SKIPPED,,3.8,,,,,
+VizWiz_train_00000069.jpg,False,blurred,23.8,120.0,0,0,,,,SKIPPED,,17.1,,,,,
+VizWiz_train_00000070.jpg,True,,51.3,49.2,0,1,,,,CLEAR,Sign reads AUDIONODE:ST.,31.0,91.3,89.9,434.2,0.4,646.8
+VizWiz_train_00000071.jpg,True,,291.2,108.9,0,4,,,,CLEAR,Sign reads coffeecreamer.,14.9,88.9,88.0,603.8,0.5,796.1
+VizWiz_train_00000072.jpg,True,,31.0,111.2,0,0,,,,CLEAR,,19.7,116.4,96.6,364.8,0.3,597.7
+VizWiz_train_00000073.jpg,True,,105.7,132.2,2,4,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,15.8,87.4,90.5,583.4,1.5,778.5
+VizWiz_train_00000074.jpg,True,,172.7,128.4,0,1,,,,CLEAR,Sign reads SICO.,21.3,111.6,122.7,379.6,0.5,635.8
+VizWiz_train_00000075.jpg,False,blurred,29.2,130.5,0,0,,,,SKIPPED,,17.7,,,,,
+VizWiz_train_00000076.jpg,True,,167.0,136.5,0,0,,,,CLEAR,,3.2,96.4,89.4,383.0,0.3,572.3
+VizWiz_train_00000077.jpg,True,,605.8,130.7,2,1,tv,right,far,CLEAR,Sign reads ViewSonie.,1.0,90.2,80.5,379.4,0.5,551.6
+VizWiz_train_00000078.jpg,True,,125.9,109.8,0,0,,,,CLEAR,,21.8,88.4,86.2,295.3,0.5,492.1
+VizWiz_train_00000079.jpg,False,blurred,22.3,101.1,0,0,,,,SKIPPED,,16.9,,,,,
+VizWiz_train_00000080.jpg,True,,385.9,67.3,1,0,cat,centre,near,HIGH,Stop. Cat ahead. Path blocked.,1.0,87.4,80.8,312.3,0.6,482.1
+VizWiz_train_00000081.jpg,False,blurred,24.8,85.6,0,0,,,,SKIPPED,,20.3,,,,,
+VizWiz_train_00000082.jpg,True,,94.4,138.8,1,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,23.5,114.9,118.8,462.3,0.9,720.4
+VizWiz_train_00000083.jpg,True,,235.0,115.5,2,0,tv,centre,near,HIGH,Stop. Tv ahead. Path blocked.,19.6,112.7,129.6,297.8,0.9,560.6
+VizWiz_train_00000084.jpg,True,,803.2,116.5,1,0,bed,centre,near,HIGH,Stop. Bed ahead. Move left.,2.8,88.2,85.2,308.9,0.4,485.6
+VizWiz_train_00000085.jpg,True,,187.3,69.7,0,0,,,,CLEAR,,20.7,123.2,125.4,372.6,0.7,642.6
+VizWiz_train_00000086.jpg,True,,274.3,125.3,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,21.7,131.0,102.6,278.8,1.6,535.6
+VizWiz_train_00000087.jpg,False,blurred,10.5,108.9,0,0,,,,SKIPPED,,19.4,,,,,
+VizWiz_train_00000088.jpg,True,,94.2,92.8,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,24.8,111.4,113.1,416.4,2.1,667.8
+VizWiz_train_00000089.jpg,True,,56.7,82.5,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,17.4,115.6,116.1,297.7,1.1,547.8
+VizWiz_train_00000090.jpg,True,,401.8,111.9,1,0,oven,right,far,CLEAR,,14.9,88.4,86.2,358.5,0.4,548.4
+VizWiz_train_00000091.jpg,True,,296.1,126.0,1,0,car,centre,mid,MEDIUM,Car ahead. Keep right.,15.1,89.9,93.5,355.5,0.7,554.8
+VizWiz_train_00000092.jpg,True,,981.7,104.4,13,0,car,centre,near,HIGH,Stop. Car ahead. Path blocked.,20.1,118.4,119.0,390.7,1.4,649.7
+VizWiz_train_00000093.jpg,True,,481.0,112.1,1,0,toilet,centre,near,HIGH,Stop. Toilet ahead. Path blocked.,1.5,117.0,108.1,391.3,0.4,618.2
+VizWiz_train_00000094.jpg,True,,130.2,144.7,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,20.3,118.4,111.0,278.2,1.4,529.3
+VizWiz_train_00000095.jpg,True,,126.3,71.4,0,2,,,,CLEAR,Sign reads NTERVENE.,15.0,93.5,96.9,556.7,0.5,762.5
+VizWiz_train_00000096.jpg,True,,63.5,111.1,1,0,person,right,near,MEDIUM,Person on your right.,28.7,111.9,94.4,305.7,0.7,541.4
+VizWiz_train_00000097.jpg,True,,232.3,98.0,0,3,,,,CLEAR,Sign reads PareLife.,12.7,85.9,108.3,553.1,0.4,760.4
+VizWiz_train_00000098.jpg,True,,324.3,156.4,0,4,,,,CLEAR,"Sign reads Singhv Pearey Lal,AIR 1982 Del 120,wher.",14.9,89.1,85.5,1332.5,0.5,1522.5
+VizWiz_train_00000099.jpg,False,blurred,17.3,101.5,0,0,,,,SKIPPED,,23.8,,,,,
+VizWiz_train_00000100.jpg,True,,183.9,110.0,0,14,,,,CLEAR,Sign reads lunch Better'.,17.7,84.9,91.8,942.0,0.3,1136.6
+VizWiz_train_00000101.jpg,True,,168.0,127.2,0,0,,,,CLEAR,,1.1,87.8,79.5,330.8,0.1,499.4
+VizWiz_train_00000102.jpg,True,,250.3,144.9,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,19.2,106.9,104.4,420.1,1.0,651.6
+VizWiz_train_00000103.jpg,True,,85.8,140.4,0,3,,,,CLEAR,Sign reads rab6.,26.4,142.0,125.2,491.3,0.5,785.5
+VizWiz_train_00000104.jpg,True,,112.0,123.3,4,0,dining table,centre,near,HIGH,Stop. Dining table ahead. Path blocked.,13.0,102.2,93.6,376.5,1.8,587.1
+VizWiz_train_00000105.jpg,True,,108.5,104.4,1,0,tv,centre,near,HIGH,Stop. Tv ahead. Path blocked.,1.7,115.3,101.3,295.4,0.5,514.2
+VizWiz_train_00000106.jpg,True,,174.1,117.3,0,0,,,,CLEAR,,28.2,99.5,111.1,322.6,0.5,561.9
+VizWiz_train_00000107.jpg,True,,116.1,106.6,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,1.2,111.4,85.8,318.8,0.4,517.6
+VizWiz_train_00000108.jpg,True,,308.6,105.6,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,1.4,89.8,93.3,331.9,0.4,516.7
+VizWiz_train_00000109.jpg,True,,69.6,110.4,0,0,,,,CLEAR,,14.4,87.6,112.0,301.0,0.4,515.4
+VizWiz_train_00000110.jpg,False,blurred,23.9,98.4,0,0,,,,SKIPPED,,13.9,,,,,
+VizWiz_train_00000111.jpg,True,,389.2,129.9,1,3,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,16.2,105.4,110.0,512.6,1.2,745.3
+VizWiz_train_00000112.jpg,True,,490.8,140.2,0,6,,,,CLEAR,Sign reads TOMATO.,42.2,125.5,123.8,649.3,0.7,941.4
+VizWiz_train_00000113.jpg,True,,76.6,144.8,1,5,tv,right,far,CLEAR,Sign reads ract.,21.8,128.8,118.0,505.6,0.8,775.0
+VizWiz_train_00000114.jpg,True,,218.4,144.3,0,2,,,,CLEAR,Sign reads HOUSE BLEND.,25.9,112.2,116.8,400.4,0.5,655.7
+VizWiz_train_00000115.jpg,True,,102.7,119.1,0,0,,,,CLEAR,,21.2,111.9,113.9,396.7,0.5,644.2
+VizWiz_train_00000116.jpg,True,,253.7,120.6,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,19.2,93.5,88.2,448.1,1.2,650.3
+VizWiz_train_00000117.jpg,True,,169.9,111.6,0,1,,,,CLEAR,Sign reads PUNITEDSTATES.,13.5,90.8,100.3,354.8,0.3,559.8
+VizWiz_train_00000118.jpg,True,,31.9,101.7,1,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,15.6,92.9,97.8,478.4,0.7,685.4
+VizWiz_train_00000119.jpg,True,,59.4,100.7,1,0,tv,centre,far,CLEAR,,24.7,108.5,87.1,361.0,0.8,582.2
+VizWiz_train_00000120.jpg,False,blurred,21.8,81.3,0,0,,,,SKIPPED,,16.8,,,,,
+VizWiz_train_00000121.jpg,True,,61.9,89.7,1,5,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,23.6,116.9,108.4,598.6,1.0,848.5
+VizWiz_train_00000122.jpg,True,,405.1,127.1,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,14.3,86.2,87.9,308.1,1.4,498.1
+VizWiz_train_00000123.jpg,False,blurred,13.5,88.2,0,0,,,,SKIPPED,,21.7,,,,,
+VizWiz_train_00000124.jpg,True,,88.5,129.6,0,3,,,,CLEAR,Sign reads PANTENE.,1.4,93.1,94.2,521.2,0.1,710.1
+VizWiz_train_00000125.jpg,True,,119.3,139.9,1,2,refrigerator,centre,near,HIGH,Stop. Refrigerator ahead. Path blocked.,13.3,87.7,102.8,367.6,0.9,572.4
+VizWiz_train_00000126.jpg,True,,71.1,106.8,0,0,,,,CLEAR,,15.1,94.6,90.9,324.1,0.5,525.1
+VizWiz_train_00000127.jpg,False,blurred,29.0,120.2,0,0,,,,SKIPPED,,26.3,,,,,
+VizWiz_train_00000128.jpg,True,,405.7,138.7,0,0,,,,CLEAR,,1.5,128.7,105.9,1557.0,0.1,1793.2
+VizWiz_train_00000129.jpg,False,blurred,10.7,110.4,0,0,,,,SKIPPED,,3.4,,,,,
+VizWiz_train_00000130.jpg,True,,46.4,76.4,1,0,tv,centre,near,HIGH,Stop. Tv ahead. Move right.,12.8,91.3,91.4,313.9,0.6,510.0
+VizWiz_train_00000131.jpg,True,,222.3,130.7,0,0,,,,CLEAR,,17.9,87.1,91.7,306.6,0.4,503.8
+VizWiz_train_00000132.jpg,True,,39.8,91.1,0,0,,,,CLEAR,,29.0,89.7,90.8,306.5,0.4,516.4
+VizWiz_train_00000133.jpg,True,,93.6,93.6,0,0,,,,CLEAR,,16.5,91.9,90.6,406.0,0.4,605.4
+VizWiz_train_00000134.jpg,False,blurred,25.2,113.5,0,0,,,,SKIPPED,,15.3,,,,,
+VizWiz_train_00000135.jpg,True,,52.8,130.4,0,0,,,,CLEAR,,13.4,107.7,98.2,289.4,0.4,509.2
+VizWiz_train_00000136.jpg,True,,198.7,92.6,0,2,,,,CLEAR,Sign reads Valu.,26.0,111.4,87.9,409.9,0.4,635.5
+VizWiz_train_00000137.jpg,True,,95.2,94.0,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,21.1,108.0,115.3,338.8,1.9,585.2
+VizWiz_train_00000138.jpg,False,blurred,16.1,77.0,0,0,,,,SKIPPED,,14.5,,,,,
+VizWiz_train_00000139.jpg,False,blurred,13.7,92.5,0,0,,,,SKIPPED,,20.7,,,,,
+VizWiz_train_00000140.jpg,True,,88.1,139.6,0,0,,,,CLEAR,,17.8,98.7,96.9,326.6,0.4,540.3
+VizWiz_train_00000141.jpg,True,,220.2,96.3,0,0,,,,CLEAR,,4.1,88.7,104.0,526.3,0.5,723.6
+VizWiz_train_00000142.jpg,True,,103.0,160.2,0,1,,,,CLEAR,Sign reads enseal.,33.5,147.5,145.0,467.5,0.6,794.1
+VizWiz_train_00000143.jpg,True,,37.1,138.9,1,1,person,right,mid,CLEAR,Sign reads TEA.,25.7,118.5,113.8,445.8,0.8,704.5
+VizWiz_train_00000144.jpg,True,,186.3,98.9,1,5,person,centre,far,CLEAR,Sign reads badzout·sel de bain·sal debano.,23.0,122.8,98.7,512.6,0.7,757.8
+VizWiz_train_00000145.jpg,False,blurred,17.2,122.7,0,0,,,,SKIPPED,,16.4,,,,,
+VizWiz_train_00000146.jpg,True,,73.2,91.3,1,3,refrigerator,centre,near,HIGH,Stop. Refrigerator ahead. Path blocked.,26.9,107.9,98.1,475.1,1.0,709.1
+VizWiz_train_00000147.jpg,False,blurred,13.7,112.8,0,0,,,,SKIPPED,,18.9,,,,,
+VizWiz_train_00000148.jpg,True,,56.4,79.3,0,2,,,,CLEAR,Sign reads 2:03.,11.8,132.0,117.1,399.0,0.4,660.2
+VizWiz_train_00000149.jpg,True,,287.8,112.8,0,0,,,,CLEAR,,1.1,92.1,91.1,365.7,0.1,550.2
+VizWiz_train_00000150.jpg,True,,71.4,106.6,0,0,,,,CLEAR,,26.0,117.2,121.9,359.9,0.4,625.3
+VizWiz_train_00000151.jpg,True,,718.0,111.0,0,3,,,,CLEAR,Sign reads EXTRABOLD.,18.2,98.9,94.1,487.5,0.4,699.1
+VizWiz_train_00000152.jpg,True,,116.1,157.1,0,7,,,,CLEAR,Sign reads atonin.,25.3,110.3,100.8,570.5,0.6,807.5
+VizWiz_train_00000153.jpg,True,,66.5,98.7,0,0,,,,CLEAR,,31.6,114.0,93.7,333.3,0.6,573.2
+VizWiz_train_00000154.jpg,True,,153.0,63.4,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,31.4,92.1,85.8,360.0,2.0,571.4
+VizWiz_train_00000155.jpg,False,blurred,5.3,76.1,0,0,,,,SKIPPED,,27.4,,,,,
+VizWiz_train_00000156.jpg,True,,157.2,105.9,0,1,,,,CLEAR,Sign reads Anti-Diarrheal.,26.2,112.5,115.3,467.9,0.5,722.4
+VizWiz_train_00000157.jpg,False,blurred,14.9,128.0,0,0,,,,SKIPPED,,22.8,,,,,
+VizWiz_train_00000158.jpg,True,,162.9,113.1,0,8,,,,CLEAR,Sign reads ShopOnlinewww.puritan.com.,20.0,114.1,112.2,653.5,0.4,900.0
+VizWiz_train_00000159.jpg,True,,231.5,111.8,0,6,,,,CLEAR,Sign reads Apple.,16.7,86.2,97.1,595.0,0.3,795.3
+VizWiz_train_00000160.jpg,True,,87.2,131.3,1,0,dog,centre,near,HIGH,Stop. Dog ahead. Path blocked.,13.4,91.7,91.1,285.6,1.4,483.1
+VizWiz_train_00000161.jpg,True,,655.9,93.8,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,17.9,95.8,96.5,333.8,0.8,544.9
+VizWiz_train_00000162.jpg,True,,1140.0,102.7,0,6,,,,CLEAR,Sign reads STUDENTPLANNER.,1.1,102.6,87.5,768.8,0.2,960.1
+VizWiz_train_00000163.jpg,False,blurred,28.8,93.7,0,0,,,,SKIPPED,,28.6,,,,,
+VizWiz_train_00000164.jpg,False,blurred,20.5,99.3,0,0,,,,SKIPPED,,21.9,,,,,
+VizWiz_train_00000165.jpg,True,,243.0,107.3,0,7,,,,CLEAR,Sign reads Gourmet CookieDough.,30.8,128.1,129.0,1131.2,0.6,1419.6
+VizWiz_train_00000166.jpg,True,,56.7,141.5,0,1,,,,CLEAR,Sign reads NUEZ.,25.2,129.5,129.8,459.8,0.5,744.9
+VizWiz_train_00000167.jpg,True,,117.5,115.6,0,4,,,,CLEAR,Sign reads iber.,21.4,131.1,129.0,548.7,0.5,830.7
+VizWiz_train_00000168.jpg,True,,882.4,116.1,0,0,,,,CLEAR,,28.7,125.0,143.2,386.8,0.6,684.3
+VizWiz_train_00000169.jpg,True,,152.6,123.0,0,4,,,,CLEAR,Sign reads Low fat evaporated.,21.8,132.7,137.6,414.8,0.5,707.3
+VizWiz_train_00000170.jpg,True,,104.9,138.5,0,0,,,,CLEAR,,13.7,103.2,102.0,357.5,0.6,577.0
+VizWiz_train_00000171.jpg,True,,889.0,124.6,1,12,person,left,near,MEDIUM,Person on your left. Sign reads Cuisinart.,40.7,114.7,114.7,1251.9,0.5,1522.6
+VizWiz_train_00000172.jpg,True,,562.4,126.1,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,1.2,88.0,79.5,341.0,0.4,510.1
+VizWiz_train_00000173.jpg,True,,54.4,169.2,1,1,refrigerator,centre,near,HIGH,Stop. Refrigerator ahead. Path blocked.,14.4,85.1,88.0,451.2,0.9,639.6
+VizWiz_train_00000174.jpg,True,,95.5,60.9,1,0,tv,centre,far,CLEAR,,17.1,87.0,87.0,354.7,1.0,546.8
+VizWiz_train_00000175.jpg,True,,98.2,145.2,0,5,,,,CLEAR,Sign reads sst Colors.,24.1,119.1,116.7,691.2,0.6,951.6
+VizWiz_train_00000176.jpg,False,blurred,18.1,92.7,0,0,,,,SKIPPED,,24.6,,,,,
+VizWiz_train_00000177.jpg,True,,55.2,87.7,0,6,,,,CLEAR,Sign reads enriquecido.,24.4,113.7,112.7,574.0,0.6,825.4
+VizWiz_train_00000178.jpg,True,,162.4,141.5,0,0,,,,CLEAR,,16.6,108.9,109.3,334.2,0.5,569.5
+VizWiz_train_00000179.jpg,True,,346.8,106.7,1,15,tv,centre,near,HIGH,Stop. Tv ahead. Path blocked.,17.4,106.8,115.5,1620.7,1.4,1861.8
+VizWiz_train_00000180.jpg,True,,93.5,114.3,0,0,,,,CLEAR,,1.3,112.1,103.7,292.5,0.2,509.8
+VizWiz_train_00000181.jpg,True,,242.4,135.4,0,1,,,,CLEAR,Sign reads Total C.,1.4,88.0,81.1,419.2,0.2,589.8
+VizWiz_train_00000182.jpg,True,,460.8,125.2,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,1.3,108.6,103.7,377.4,0.6,591.6
+VizWiz_train_00000183.jpg,True,,102.5,116.0,0,0,,,,CLEAR,,16.1,91.7,93.3,356.6,0.6,558.2
+VizWiz_train_00000184.jpg,True,,744.8,88.5,0,3,,,,CLEAR,Sign reads 5IMBH41215.,2.6,107.5,84.5,500.2,0.2,695.0
+VizWiz_train_00000185.jpg,True,,55.2,76.1,0,0,,,,CLEAR,,14.7,87.7,91.1,337.0,0.5,531.0
+VizWiz_train_00000186.jpg,True,,287.8,118.2,2,5,person,left,near,MEDIUM,Person on your left. Sign reads Gerber.,16.9,94.8,114.4,557.0,1.0,784.2
+VizWiz_train_00000187.jpg,False,blurred,10.5,73.3,0,0,,,,SKIPPED,,24.6,,,,,
+VizWiz_train_00000188.jpg,True,,53.0,84.4,0,0,,,,CLEAR,,24.8,93.5,87.4,343.6,0.5,549.8
+VizWiz_train_00000189.jpg,True,,90.8,117.8,1,0,person,left,near,MEDIUM,Person on your left.,23.5,96.6,100.7,763.4,0.6,984.8
+VizWiz_train_00000190.jpg,True,,105.1,145.2,1,0,chair,left,near,MEDIUM,Chair on your left.,16.2,111.7,114.7,412.9,0.7,656.3
+VizWiz_train_00000191.jpg,True,,134.9,65.9,0,6,,,,CLEAR,Sign reads Stokelys.,20.6,105.1,95.5,564.9,0.5,786.5
+VizWiz_train_00000192.jpg,True,,262.5,114.7,0,0,,,,CLEAR,,1.4,136.7,117.8,379.2,0.2,635.3
+VizWiz_train_00000193.jpg,True,,140.6,141.7,1,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,24.3,115.5,116.5,352.3,1.2,609.8
+VizWiz_train_00000194.jpg,True,,455.3,92.0,0,23,,,,CLEAR,Sign reads PREPAREDFOR/PREPAREPOUR.,1.9,109.3,110.9,1569.3,0.4,1791.8
+VizWiz_train_00000195.jpg,True,,170.6,124.5,1,1,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,22.0,112.7,117.3,574.9,1.5,828.5
+VizWiz_train_00000196.jpg,False,blurred,14.0,116.7,0,0,,,,SKIPPED,,30.9,,,,,
+VizWiz_train_00000197.jpg,False,blurred,20.6,70.3,0,0,,,,SKIPPED,,28.0,,,,,
+VizWiz_train_00000198.jpg,True,,676.3,144.0,0,4,,,,CLEAR,Sign reads reatenement.,1.5,117.0,105.8,744.7,0.2,969.3
+VizWiz_train_00000199.jpg,True,,82.9,161.8,0,23,,,,CLEAR,Sign reads Fotal Carbohydrate12g.,24.4,114.6,114.2,1743.6,0.5,1997.3
+VizWiz_train_00000200.jpg,False,blurred,13.6,136.6,0,0,,,,SKIPPED,,15.1,,,,,

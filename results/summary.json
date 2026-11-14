@@ -1,0 +1,30 @@
+{
+  "total_images": 213,
+  "usable": 168,
+  "skipped_blur": 44,
+  "skipped_dark": 1,
+  "with_obstacle": 63,
+  "with_text": 80,
+  "HIGH": 46,
+  "MEDIUM": 5,
+  "median_ms": {
+    "t_preprocess_ms": 14.8,
+    "t_detection_ms": 86.4,
+    "t_depth_ms": 88.0,
+    "t_ocr_ms": 309.0,
+    "t_reasoning_ms": 0.4,
+    "t_total_ms": 502.9
+  },
+  "mean_total_ms": 582.4,
+  "median_no_ocr_ms": 192.2,
+  "before_hand": [
+    54,
+    7,
+    39
+  ],
+  "after_hand": [
+    46,
+    5,
+    29
+  ]
+}

@@ -1,0 +1,61 @@
+image,usable,skip_reason,blur_score,brightness,n_obstacles,n_text,top_object,top_zone,top_band,level,message,t_preprocess_ms,t_detection_ms,t_depth_ms,t_ocr_ms,t_reasoning_ms,t_total_ms
+frame_00005,True,,643.2,109.3,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,10.8,209.5,156.0,723.0,0.6,1099.9
+frame_00010,True,,587.7,105.6,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.3,204.2,134.7,649.6,0.6,997.3
+frame_00015,True,,527.0,108.9,1,0,person,centre,near,HIGH,Stop. Person ahead. Move left.,9.4,164.0,127.1,537.2,0.8,838.5
+frame_00020,True,,630.5,107.5,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,9.4,169.8,163.4,614.1,0.8,957.5
+frame_00025,True,,634.2,106.8,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,8.3,180.9,126.0,576.3,1.0,892.5
+frame_00030,True,,497.8,108.4,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,9.1,154.2,121.5,573.9,1.1,859.8
+frame_00035,True,,637.9,104.6,3,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,6.6,206.3,113.6,567.2,1.3,895.0
+frame_00040,True,,611.7,105.3,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,15.0,195.1,153.9,614.2,1.3,979.5
+frame_00045,True,,616.2,104.3,3,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,7.5,156.6,126.0,610.0,1.0,901.1
+frame_00050,True,,595.1,105.8,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,9.1,152.0,122.3,531.7,0.9,816.0
+frame_00055,True,,675.2,106.0,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,9.9,198.7,124.2,632.5,0.8,966.1
+frame_00060,True,,653.1,106.0,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,4.6,145.2,130.3,627.3,0.5,908.0
+frame_00065,True,,622.5,105.7,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.8,213.8,125.3,541.0,0.9,888.8
+frame_00070,True,,715.0,106.7,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,5.1,154.5,156.2,651.9,0.8,968.5
+frame_00075,True,,703.9,105.9,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.4,208.9,134.1,614.0,0.8,967.2
+frame_00080,True,,645.8,100.1,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.5,207.0,126.0,625.3,0.9,967.6
+frame_00085,True,,651.8,99.2,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,6.5,164.6,137.1,472.2,2.4,782.9
+frame_00090,True,,658.5,101.8,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.2,205.4,133.2,527.5,0.5,873.8
+frame_00095,True,,689.8,102.2,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,5.5,153.9,124.3,640.8,0.8,925.3
+frame_00100,True,,665.7,101.3,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.1,207.7,165.9,536.8,0.7,920.2
+frame_00105,True,,664.6,101.2,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.7,225.3,186.5,533.7,0.7,956.0
+frame_00110,True,,673.6,102.8,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.7,191.4,133.0,576.3,0.8,910.3
+frame_00115,True,,667.0,102.5,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,10.1,161.7,130.1,561.3,0.6,863.8
+frame_00120,True,,610.4,102.4,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.4,158.9,134.3,571.4,1.3,874.3
+frame_00125,True,,636.2,101.8,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.5,167.3,137.4,622.3,0.6,935.0
+frame_00130,True,,647.5,102.8,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,6.9,179.0,134.2,578.5,0.8,899.4
+frame_00135,True,,615.4,104.2,3,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.9,160.7,161.7,730.6,1.2,1062.1
+frame_00140,True,,696.7,104.0,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,11.5,180.9,122.5,728.8,0.9,1044.6
+frame_00145,True,,634.1,99.9,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,4.8,188.7,120.3,545.9,1.2,860.8
+frame_00150,True,,657.2,100.3,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,7.0,160.8,120.7,534.5,0.9,824.0
+frame_00155,True,,666.1,102.2,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.5,208.9,120.8,633.4,0.6,973.2
+frame_00160,True,,702.1,101.0,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,10.9,204.1,116.9,511.4,0.7,844.0
+frame_00165,True,,607.9,105.8,0,0,,,,CLEAR,,9.6,213.0,128.0,593.2,0.4,944.2
+frame_00170,True,,392.6,105.9,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,6.1,144.0,131.2,596.1,0.7,878.1
+frame_00175,True,,173.6,115.9,1,0,person,left,near,MEDIUM,Person on your left.,10.0,206.4,142.3,431.4,0.8,790.8
+frame_00180,True,,236.4,107.1,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,6.6,154.3,118.0,516.4,1.1,796.3
+frame_00185,True,,141.8,73.4,0,0,,,,CLEAR,,5.1,157.5,127.3,512.0,0.6,802.4
+frame_00190,True,,195.2,134.5,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,4.4,149.9,159.8,536.4,0.9,851.4
+frame_00195,True,,285.6,127.2,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,10.7,208.9,123.2,564.4,1.3,908.6
+frame_00200,True,,299.7,123.8,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,6.7,156.4,125.3,493.2,0.9,782.4
+frame_00205,True,,298.4,124.0,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.5,160.9,117.1,530.4,1.0,816.9
+frame_00210,True,,296.6,123.7,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.6,175.0,134.7,570.6,0.9,889.9
+frame_00215,True,,291.2,123.4,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,6.7,155.3,126.0,735.6,1.0,1024.6
+frame_00220,True,,288.0,121.5,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.8,165.0,120.2,502.2,1.1,796.2
+frame_00225,True,,273.7,120.0,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.9,188.7,110.5,517.4,1.3,826.7
+frame_00230,True,,282.1,120.8,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.2,219.2,142.0,503.0,1.3,874.8
+frame_00235,True,,262.4,121.2,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.0,202.9,138.5,536.8,0.7,887.9
+frame_00240,True,,326.7,122.9,2,1,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.7,154.4,122.8,525.6,1.2,811.7
+frame_00245,True,,170.3,108.5,2,0,person,right,near,MEDIUM,Person on your right.,5.6,146.8,139.3,477.7,0.9,770.3
+frame_00250,True,,598.9,104.7,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,7.1,170.0,125.0,572.4,0.7,875.1
+frame_00255,True,,616.4,100.5,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,9.9,183.2,123.5,612.5,0.6,929.8
+frame_00260,True,,616.7,101.1,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,8.3,202.4,136.5,538.5,1.2,887.0
+frame_00265,True,,412.8,100.1,2,0,person,centre,near,HIGH,Stop. Person ahead. Path blocked.,7.8,134.6,111.3,481.2,1.3,736.1
+frame_00270,True,,393.8,100.2,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,11.2,204.4,120.4,506.1,0.9,843.0
+frame_00275,True,,491.5,110.2,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,11.9,193.9,128.2,530.6,0.8,865.5
+frame_00280,True,,681.5,110.6,0,0,,,,CLEAR,,11.9,216.8,122.9,519.4,0.3,871.3
+frame_00285,True,,666.8,111.3,1,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,10.3,196.6,132.3,555.1,0.6,894.9
+frame_00290,True,,415.7,114.4,1,0,person,centre,near,HIGH,Stop. Person ahead. Move left.,9.7,159.7,130.7,546.2,0.6,846.9
+frame_00295,True,,653.0,111.7,2,0,person,centre,near,HIGH,Stop. Person ahead. Move right.,11.2,193.5,115.3,470.2,1.2,791.4
+frame_00300,True,,645.5,111.8,1,0,person,centre,near,HIGH,Stop. Person ahead. Move left.,8.5,141.3,121.1,457.1,0.7,728.5
